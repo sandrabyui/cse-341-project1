@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "description": ""
   },
-  "host": "https://project1-k7wm.onrender.com",
+  "host": "project1-k7wm.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
